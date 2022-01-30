@@ -1,3 +1,3 @@
 # pands-problem-sheet
 
-my solutions to the weekly tasks
+My solutions to the weekly tasks
