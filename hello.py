@@ -1,6 +1,8 @@
 # task week 01
+# author: Torsten Kindt
+#
 # my first program in Python
 # just printing Hello World! 
-# author: Torsten Kindt
+
 
 print('Hello World!')
