@@ -7,5 +7,8 @@ Author: Torsten Kindt
 
 Week 01 - helloWorld.py 
 Week 02 - bmi.py
+Week 03 - secondString.py
+Week 04 - 
+
 
 
