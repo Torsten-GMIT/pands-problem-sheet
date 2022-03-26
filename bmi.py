@@ -11,5 +11,5 @@ heightsq = (height/100) * (height/100)
 
 answer = weight / heightsq
 
-print("Your BMI is: " + str(answer))
+print("Your BMI is: " + str(round(answer, 2)))
 
