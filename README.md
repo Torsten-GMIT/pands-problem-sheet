@@ -8,7 +8,8 @@ Author: Torsten Kindt
 Week 01 - helloWorld.py 
 Week 02 - bmi.py
 Week 03 - secondString.py
-Week 04 - 
+Week 04 - collatz.py
+Week 05 - weekend.py
 
 
 
